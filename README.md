@@ -11,3 +11,5 @@ Git push> de mi compu al repositorio
 Git pull>desde mi repositorio a mi compu
 
 Git fetch es para ver si quiero o no guardar los cambios, un proceso con un paso mas, es mas burocratico  
+
+Haber otra vez<>
