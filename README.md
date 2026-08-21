@@ -9,3 +9,5 @@ Un commit mas desde github :)
 Git push> de mi compu al repositorio
 
 Git pull desde mi repositorio a mi compu
+
+Git fesh 
